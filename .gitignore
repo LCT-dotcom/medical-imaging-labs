@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+data/*
+!data/README.md
+results/*
+!results/README.md
+*.dcm
+*.nii
+*.nii.gz
+*.zip
+.env
+config.local.*
