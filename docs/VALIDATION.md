@@ -23,7 +23,7 @@ The test suite reports **16 passed**. It covers signed subtraction, shape valida
 
 ## Public examples
 
-`examples/` contains executed notebooks and representative figures using **synthetic demo inputs only**. They can be browsed on GitHub without access to the coursework data. Original medical-image outputs remain local and are not part of the publication archive.
+`examples/` contains executed notebooks and representative figures using **synthetic demo inputs only**. They can be browsed on GitHub without access to the coursework data. The main notebooks under `notebooks/` contain labeled saved outputs from the supplied coursework data. The source medical-image files are not included. A fresh demo run produces synthetic results instead of those saved coursework outputs.
 
 ## Environment
 
